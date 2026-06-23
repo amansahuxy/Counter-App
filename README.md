@@ -1,4 +1,4 @@
-# 🔢 Counter App
+# 🔢 Counter App 
 
 A simple Counter Application built using HTML and JavaScript. Users can increase, decrease, and reset the counter value with button clicks.
 
